@@ -9,8 +9,8 @@
 | 序号 | 题号 | 题目                                         | 标签             | 难度 | 通过率 | 完成 |
 | ---- | ---- | -------------------------------------------- | ---------------- | ---- | ------ | ---- |
 | 1    | HJ1  | [字符串最后一个单词的长度](https://github.com/isLinXu/AlgorithmProblemSummary/blob/main/HuaWei/%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%9C%80%E5%90%8E%E4%B8%80%E4%B8%AA%E5%8D%95%E8%AF%8D%E7%9A%84%E9%95%BF%E5%BA%A6.cpp) | 字符串           | 简单 | 31.67% | √ |
-| 2    | HJ2  | 计算某字符出现次数                           | 字符串哈希       | 简单 | 29.78% | √ |
-| 3    | HJ3  | 明明的随机数                                 | 数组             | 较难 | 21.24% | √ |
+| 2    | HJ2  | [计算某字符出现次数](https://github.com/isLinXu/AlgorithmProblemSummary/blob/main/HuaWei/%E8%AE%A1%E7%AE%97%E6%9F%90%E5%AD%97%E7%AC%A6%E6%AC%A1%E6%95%B0.cpp) | 字符串哈希       | 简单 | 29.78% | √ |
+| 3    | HJ3  | [明明的随机数](https://github.com/isLinXu/AlgorithmProblemSummary/blob/main/HuaWei/%E6%98%8E%E6%98%8E%E7%9A%84%E9%9A%8F%E6%9C%BA%E6%95%B0.cpp) | 数组             | 较难 | 21.24% | √ |
 | 4    | HJ4  | 字符串分隔                                   | 字符串           | 简单 | 27.98% | √ |
 | 5    | HJ5  | 进制转换                                     | 字符串           | 简单 | 32.43% | √ |
 | 6    | HJ6  | 质数因子                                     | 排序             | 简单 | 26.78% | √ |
