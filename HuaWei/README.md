@@ -91,7 +91,7 @@
 | 81 | HJ85  | [最长回文子串](https://github.com/isLinXu/AlgorithmProblemSummary/blob/main/HuaWei/%E6%9C%80%E9%95%BF%E5%9B%9E%E6%96%87%E5%AD%90%E4%B8%B2.cpp) | 字符串穷举       | 简单 | 40.11% | √ |
 | 82 | HJ86  | [求最大连续bit数](https://github.com/isLinXu/AlgorithmProblemSummary/blob/main/HuaWei/%E6%B1%82%E6%9C%80%E5%A4%A7%E8%BF%9E%E7%BB%ADbit%E6%95%B0.cpp) | 位运算           | 简单 | 44.87% | √ |
 | 83 | HJ87  | [密码强度等级](https://github.com/isLinXu/AlgorithmProblemSummary/blob/main/HuaWei/%E5%AF%86%E7%A0%81%E5%BC%BA%E5%BA%A6%E7%AD%89%E7%BA%A7.cpp) | 字符串           | 简单 | 32.26% | √ |
-| 84 | HJ88  | 扑克牌大小                                             | 字符串链表栈队列 | 较难 | 32.52% |      |
+| 84 | HJ88  | [扑克牌大小](https://github.com/isLinXu/AlgorithmProblemSummary/blob/main/HuaWei/%E6%89%91%E5%85%8B%E7%89%8C%E5%A4%A7%E5%B0%8F.cpp) | 字符串链表栈队列 | 较难 | 32.52% |      |
 | 85 | HJ89  | 24点运算                                               | 字符串模拟穷举   | 较难 | 21.82% |      |
 | 86 | HJ90  | 合法IP                                                 | 字符串链表栈队列 | 中等 | 32.69% |      |
 | 87 | HJ91  | 走方格的方案数                                         | 字符串           | 简单 | 46.54% |      |
